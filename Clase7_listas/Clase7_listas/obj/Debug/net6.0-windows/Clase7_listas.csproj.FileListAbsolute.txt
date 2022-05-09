@@ -1,0 +1,17 @@
+D:\dyab\c#\Clase7_listas\Clase7_listas\bin\Debug\net6.0-windows\Clase7_listas.exe
+D:\dyab\c#\Clase7_listas\Clase7_listas\bin\Debug\net6.0-windows\Clase7_listas.deps.json
+D:\dyab\c#\Clase7_listas\Clase7_listas\bin\Debug\net6.0-windows\Clase7_listas.runtimeconfig.json
+D:\dyab\c#\Clase7_listas\Clase7_listas\bin\Debug\net6.0-windows\Clase7_listas.dll
+D:\dyab\c#\Clase7_listas\Clase7_listas\bin\Debug\net6.0-windows\Clase7_listas.pdb
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.csproj.AssemblyReference.cache
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.Form1.resources
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.csproj.GenerateResource.cache
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.AssemblyInfoInputs.cache
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.AssemblyInfo.cs
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.csproj.CoreCompileInputs.cache
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.dll
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\refint\Clase7_listas.dll
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.pdb
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\Clase7_listas.genruntimeconfig.cache
+D:\dyab\c#\Clase7_listas\Clase7_listas\obj\Debug\net6.0-windows\ref\Clase7_listas.dll
