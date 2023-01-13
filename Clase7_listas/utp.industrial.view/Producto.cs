@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase7_listas
+namespace utp.industrial.entity
 {
     public class Producto
     {

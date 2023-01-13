@@ -1,6 +1,6 @@
-﻿namespace Clase7_listas
+﻿namespace utp.industrial.view
 {
-    partial class Form1
+    partial class FrmLista01
     {
         /// <summary>
         ///  Required designer variable.

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "utp.industrial.entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/utp.industrial.entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/utp.industrial.entity.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "utp.industrial.entity/1.0.0": {
+      "type": "project",
+      "path": "../utp.industrial.view/utp.industrial.entity.csproj",
+      "msbuildProject": "../utp.industrial.view/utp.industrial.entity.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "utp.industrial.entity >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dyarm\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\Clase7_listas\\Clase7_listas.csproj",
-      "projectName": "Clase7_listas",
-      "projectPath": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\Clase7_listas\\Clase7_listas.csproj",
+      "projectUniqueName": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\Clase7_listas\\utp.industrial.view.csproj",
+      "projectName": "utp.industrial.view",
+      "projectPath": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\Clase7_listas\\utp.industrial.view.csproj",
       "packagesPath": "C:\\Users\\dyarm\\.nuget\\packages\\",
       "outputPath": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\Clase7_listas\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\utp.industrial.view\\utp.industrial.entity.csproj": {
+              "projectPath": "D:\\Programacion\\c#\\aplicacion_producto\\Clase7_listas\\utp.industrial.view\\utp.industrial.entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
